@@ -13,10 +13,22 @@ Dengan demikian, melalui pendekatan PIECES yang diperkuat metode PREP, proyek CM
 
 Sebuah organisasi yang masih mengelola konten secara manual atau menggunakan sistem yang terpisah sering menghadapi berbagai kendala. Jika dianalisis menggunakan framework PIECES (Performance, Information, Economy, Control, Efficiency, Service), maka pengembangan CMS menjadi sangat layak untuk dilakukan.
 
-Dari sisi Performance, proses publikasi konten yang sebelumnya lambat dapat ditingkatkan menjadi lebih cepat dan terstruktur karena CMS memungkinkan pengelolaan konten secara real-time. Pada aspek Information, CMS mampu menyediakan informasi yang lebih akurat, terpusat, dan mudah diakses oleh pengguna maupun admin.
+Performance (Kinerja Sistem)
+Dari sisi performance, CMS meningkatkan kecepatan dan respons sistem dalam mengelola konten. Proses publikasi yang sebelumnya lambat menjadi lebih cepat, terstruktur, dan dapat dilakukan secara real-time tanpa hambatan berarti.
 
-Secara Economy, penggunaan CMS dapat menekan biaya operasional jangka panjang karena mengurangi kebutuhan tenaga kerja manual dan meminimalkan kesalahan yang berpotensi menimbulkan kerugian. Dari sisi Control, CMS memberikan kontrol akses yang jelas (role user), sehingga keamanan data dan hak akses lebih terjamin.
+Information (Kualitas Informasi)
+Pada aspek information, CMS menyediakan informasi yang lebih akurat, konsisten, dan terpusat. Data tidak lagi tersebar di berbagai tempat, sehingga memudahkan pengguna maupun admin dalam mengakses informasi yang terbaru dan valid.
 
-Dalam aspek Efficiency, CMS menyederhanakan proses kerja karena semua aktivitas—mulai dari pembuatan, pengeditan, hingga publikasi konten—dilakukan dalam satu sistem terintegrasi. Terakhir, dari sisi Service, CMS meningkatkan kualitas layanan kepada pengguna dengan menyediakan konten yang up-to-date, responsif, dan mudah diakses.
+Economy (Biaya/Keuntungan Ekonomi)
+Secara economy, CMS membantu menekan biaya operasional dalam jangka panjang. Penggunaan sistem terpusat mengurangi pekerjaan manual, meminimalkan kesalahan, serta mengurangi kebutuhan sumber daya tambahan yang berpotensi menambah biaya.
 
-Berdasarkan analisis PIECES tersebut, dapat disimpulkan bahwa proyek CMS layak untuk dikerjakan karena mampu meningkatkan kinerja sistem, efisiensi operasional, serta kualitas layanan secara keseluruhan.
+Control (Pengendalian dan Keamanan)
+Dari sisi control, CMS memberikan pengaturan hak akses yang jelas melalui sistem role user. Hal ini meningkatkan keamanan data serta memastikan hanya pihak tertentu yang dapat mengedit atau mempublikasikan konten.
+
+Efficiency (Efisiensi Proses)
+Dalam aspek efficiency, CMS menyederhanakan alur kerja karena seluruh proses—mulai dari pembuatan, pengeditan, hingga publikasi—dilakukan dalam satu sistem terintegrasi, sehingga menghemat waktu dan tenaga.
+
+Service (Kualitas Layanan)
+Terakhir, dari sisi service, CMS meningkatkan kualitas layanan kepada pengguna dengan menyediakan informasi yang cepat diakses, selalu diperbarui, dan lebih responsif terhadap kebutuhan pengguna.
+
+Berdasarkan analisis PIECES tersebut, dapat disimpulkan bahwa proyek CMS layak untuk dikerjakan karena mampu meningkatkan kinerja sistem, efisiensi operasional, serta kualitas layanan secara keseluruhan
