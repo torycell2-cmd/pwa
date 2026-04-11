@@ -1,21 +1,28 @@
-Dalam dunia rekayasa perangkat lunak, pengambilan keputusan untuk memulai proyek (Go/No-Go) harus didasari oleh analisis yang objektif. Framework PIECES (Performance, Information, Economics, Control, Efficiency, Service) merupakan alat bedah yang sangat efektif untuk memetakan urgensi pengembangan sistem CMS (Content Management System) baru.
+Dalam rekayasa perangkat lunak, keputusan **Go/No-Go** untuk sebuah proyek CMS didasarkan pada kombinasi antara "masalah yang ditemukan" (**PIECES**) dan "kesiapan solusi" (**PREP**).
 
-Berikut adalah narasi singkat mengapa sebuah proyek CMS layak mendapatkan status "GO" berdasarkan analisis PIECES:
+Berikut adalah penjelasan utuh yang menyatukan kedua framework tersebut dalam satu narasi kelayakan:
 
-Narasi Kelayakan Proyek CMS: Mengapa Harus "GO"?
-Sebuah organisasi memutuskan untuk mengganti sistem manajemen konten lama mereka karena sistem tersebut telah menjadi hambatan operasional, bukan lagi pendukung bisnis. Berdasarkan evaluasi PIECES, proyek CMS baru ini dinyatakan layak (Go) karena alasan berikut:
+---
 
-1. Peningkatan Kapasitas Operasional (Performance & Efficiency)
-Sistem lama membutuhkan waktu lebih dari 10 detik untuk memproses publikasi satu artikel (Performance yang buruk). Dengan CMS baru, arsitektur headless atau decoupled akan diimplementasikan untuk memangkas waktu respon dan menghilangkan langkah manual yang repetitif dalam pengelolaan aset digital (Efficiency), sehingga tim kreatif dapat bekerja lebih cepat.
+## **Analisis Kelayakan Proyek CMS: Sinergi PIECES & PREP**
 
-2. Integritas Data dan Pengambilan Keputusan (Information)
-CMS saat ini menghasilkan laporan trafik yang tidak akurat dan sulit diintegrasikan dengan alat analitik pihak ketiga. Proyek baru ini menjanjikan penyajian data real-time dan dasbor informasi yang relevan bagi manajemen untuk menentukan strategi konten ke depan.
+Proyek pengembangan CMS baru dinyatakan **Layak (GO)** karena sistem saat ini sudah mencapai titik jenuh yang menghambat pertumbuhan organisasi. Analisis dilakukan dengan membedah masalah menggunakan **PIECES** dan memvalidasi kesiapan eksekusi melalui **PREP**.
 
-3. Optimasi Biaya dan Keamanan (Economics & Control)
-Secara finansial (Economics), biaya pemeliharaan server untuk sistem lama yang tidak stabil jauh lebih besar daripada investasi awal pembangunan CMS baru yang lebih ringan dan skalabel. Selain itu, sistem baru akan memperketat celah keamanan melalui manajemen hak akses yang lebih granular (Control), mencegah risiko kebocoran data sensitif perusahaan.
+### **1. Identifikasi Masalah (Analisis PIECES)**
+Langkah pertama adalah membuktikan bahwa sistem lama memang bermasalah:
+* **Performance & Efficiency:** Sistem lama mengalami degradasi kecepatan yang signifikan saat diakses ribuan pengguna secara bersamaan, ditambah alur kerja admin yang berbelit-belit sehingga membuang waktu operasional.
+* **Information & Service:** Data analitik yang dihasilkan sering tidak akurat (misinformasi), dan layanan terhadap pengguna akhir menurun karena tampilan web yang tidak responsif di perangkat seluler.
+* **Economics & Control:** Biaya pemeliharaan infrastruktur lama mulai tidak masuk akal (mahal), sementara celah keamanan (kontrol) semakin rentan terhadap serangan siber karena teknologi yang sudah usang.
 
-4. Kualitas Layanan Pengguna (Service)
-CMS baru akan memberikan antarmuka yang intuitif bagi admin (backend) dan pengalaman akses yang lebih mulus bagi pembaca (frontend). Meningkatkan kualitas layanan ini sangat krusial untuk menjaga loyalitas audiens dan reputasi brand di dunia digital.
+### **2. Kesiapan Solusi (Analisis PREP)**
+Setelah masalah ditemukan, kita memvalidasi apakah kita mampu membangun solusinya:
+* **Purpose (Tujuan):** Proyek ini memiliki tujuan strategis yang tajam, yaitu menciptakan pusat konten yang aman, cepat, dan terintegrasi untuk mendukung target pemasaran perusahaan tahun depan.
+* **Resources (Sumber Daya):** Organisasi telah mengamankan anggaran yang cukup dan memiliki tim pengembang dengan keahlian teknologi modern (seperti arsitektur *Microservices*) untuk mengeksekusi proyek ini.
+* **Evaluation (Evaluasi):** Berdasarkan riset, membangun CMS kustom dinilai lebih menguntungkan secara jangka panjang dibandingkan membeli lisensi pihak ketiga yang fiturnya tidak bisa disesuaikan dengan kebutuhan unik kita.
+* **Plan (Rencana):** Jadwal pengerjaan telah disusun dalam fase-fase yang terukur (MVP dalam 3 bulan), memastikan proyek tidak akan mengganggu stabilitas bisnis yang sedang berjalan.
 
-Kesimpulan Analisis Go/No-Go
-Keputusan "GO" diambil karena CMS baru bukan sekadar pembaruan visual, melainkan solusi strategis untuk mengatasi degradasi performa dan risiko keamanan yang ada pada sistem lama. Investasi ini diproyeksikan akan memberikan Return on Investment (ROI) yang positif melalui efisiensi kerja tim dan peningkatan keterlibatan pengguna dalam jangka panjang.
+---
+
+### **Kesimpulan Narasi Go/No-Go**
+
+> Sebuah proyek CMS dinyatakan **"GO"** jika hasil diagnosa **PIECES** menunjukkan adanya kerugian nyata (inefisiensi dan risiko keamanan), dan hasil perencanaan **PREP** menunjukkan bahwa organisasi memiliki tujuan, modal, dan rencana yang konkret untuk memperbaikinya. Tanpa keselarasan keduanya, proyek hanya akan menjadi pemborosan sumber daya.
