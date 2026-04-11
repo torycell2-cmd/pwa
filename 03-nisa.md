@@ -1,28 +1,31 @@
-Dalam rekayasa perangkat lunak, keputusan **Go/No-Go** untuk sebuah proyek CMS didasarkan pada kombinasi antara "masalah yang ditemukan" (**PIECES**) dan "kesiapan solusi" (**PREP**).
+Analisis Kelayakan Proyek CMS: Sinergi PREP & PIECES
+Proyek pengembangan CMS baru dinyatakan Layak (GO) karena organisasi telah memenuhi syarat kesiapan solusi dan menemukan titik kritis pada sistem yang sedang berjalan.
 
-Berikut adalah penjelasan utuh yang menyatukan kedua framework tersebut dalam satu narasi kelayakan:
+1. Kesiapan Solusi (Analisis PREP)
+Sebelum membedah masalah teknis, kita memvalidasi kesiapan organisasi untuk menjalankan proyek ini:
 
----
+Purpose (Tujuan): Proyek ini memiliki tujuan strategis yang tajam, yaitu menciptakan pusat konten yang aman, cepat, dan terintegrasi untuk mendukung target pemasaran perusahaan tahun depan.
 
-## **Analisis Kelayakan Proyek CMS: Sinergi PIECES & PREP**
+Resources (Sumber Daya): Organisasi telah mengamankan anggaran yang cukup dan memiliki tim pengembang dengan keahlian teknologi modern untuk mengeksekusi proyek ini.
 
-Proyek pengembangan CMS baru dinyatakan **Layak (GO)** karena sistem saat ini sudah mencapai titik jenuh yang menghambat pertumbuhan organisasi. Analisis dilakukan dengan membedah masalah menggunakan **PIECES** dan memvalidasi kesiapan eksekusi melalui **PREP**.
+Evaluation (Evaluasi): Berdasarkan riset, membangun CMS kustom dinilai lebih menguntungkan secara jangka panjang dibandingkan membeli lisensi pihak ketiga yang fiturnya tidak bisa disesuaikan dengan kebutuhan unik kita.
 
-### **1. Identifikasi Masalah (Analisis PIECES)**
-Langkah pertama adalah membuktikan bahwa sistem lama memang bermasalah:
-* **Performance & Efficiency:** Sistem lama mengalami degradasi kecepatan yang signifikan saat diakses ribuan pengguna secara bersamaan, ditambah alur kerja admin yang berbelit-belit sehingga membuang waktu operasional.
-* **Information & Service:** Data analitik yang dihasilkan sering tidak akurat (misinformasi), dan layanan terhadap pengguna akhir menurun karena tampilan web yang tidak responsif di perangkat seluler.
-* **Economics & Control:** Biaya pemeliharaan infrastruktur lama mulai tidak masuk akal (mahal), sementara celah keamanan (kontrol) semakin rentan terhadap serangan siber karena teknologi yang sudah usang.
+Plan (Rencana): Jadwal pengerjaan telah disusun dalam fase-fase yang terukur, memastikan proyek tidak akan mengganggu stabilitas bisnis yang sedang berjalan.
 
-### **2. Kesiapan Solusi (Analisis PREP)**
-Setelah masalah ditemukan, kita memvalidasi apakah kita mampu membangun solusinya:
-* **Purpose (Tujuan):** Proyek ini memiliki tujuan strategis yang tajam, yaitu menciptakan pusat konten yang aman, cepat, dan terintegrasi untuk mendukung target pemasaran perusahaan tahun depan.
-* **Resources (Sumber Daya):** Organisasi telah mengamankan anggaran yang cukup dan memiliki tim pengembang dengan keahlian teknologi modern (seperti arsitektur *Microservices*) untuk mengeksekusi proyek ini.
-* **Evaluation (Evaluasi):** Berdasarkan riset, membangun CMS kustom dinilai lebih menguntungkan secara jangka panjang dibandingkan membeli lisensi pihak ketiga yang fiturnya tidak bisa disesuaikan dengan kebutuhan unik kita.
-* **Plan (Rencana):** Jadwal pengerjaan telah disusun dalam fase-fase yang terukur (MVP dalam 3 bulan), memastikan proyek tidak akan mengganggu stabilitas bisnis yang sedang berjalan.
+2. Identifikasi Masalah (Analisis PIECES)
+Alasan utama proyek ini harus dijalankan adalah karena sistem lama gagal memenuhi variabel berikut:
 
----
+Performance: Sistem lama mengalami degradasi kecepatan yang signifikan saat diakses banyak pengguna secara bersamaan, menyebabkan hambatan besar pada waktu respon aplikasi.
 
-### **Kesimpulan Narasi Go/No-Go**
+Information: Data analitik yang dihasilkan sering tidak akurat atau mengalami misinformasi, sehingga manajemen sulit mengambil keputusan berdasarkan data konten.
 
-> Sebuah proyek CMS dinyatakan **"GO"** jika hasil diagnosa **PIECES** menunjukkan adanya kerugian nyata (inefisiensi dan risiko keamanan), dan hasil perencanaan **PREP** menunjukkan bahwa organisasi memiliki tujuan, modal, dan rencana yang konkret untuk memperbaikinya. Tanpa keselarasan keduanya, proyek hanya akan menjadi pemborosan sumber daya.
+Economics: Biaya pemeliharaan infrastruktur lama sudah tidak masuk akal karena teknologi yang digunakan sangat haus sumber daya dan mahal untuk dipertahankan.
+
+Control: Celah keamanan semakin rentan terhadap serangan siber karena teknologi yang sudah usang dan tidak adanya fitur log aktivitas yang memadai.
+
+Efficiency: Alur kerja admin sangat berbelit-belit dan masih banyak proses manual, sehingga membuang banyak waktu operasional tim konten.
+
+Service: Layanan terhadap pengguna akhir menurun karena tampilan web yang tidak responsif di perangkat seluler dan pengalaman pengguna (UX) yang kaku.
+
+Kesimpulan Narasi Go/No-Go
+Keputusan GO diambil karena perencanaan PREP menunjukkan bahwa organisasi sudah siap secara mental, finansial, dan teknis. Hal ini didukung oleh temuan dari analisis PIECES yang membuktikan bahwa sistem lama sudah tidak layak lagi digunakan untuk mendukung operasional perusahaan di masa depan.
