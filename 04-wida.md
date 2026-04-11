@@ -61,46 +61,46 @@ Cocok untuk proyek besar & kompleks
 5. Tim dalam Proyek
 Peran dalam tim:
 
-Owner → pemilik proyek
-Project Manager → mengatur jalannya proyek
-Marketing → promosi & kebutuhan pasar
-Developer (Dev) → membuat sistem
-Designer → desain tampilan & database
+Owner → pemilik proyek   
+Project Manager → mengatur jalannya proyek   
+Marketing → promosi & kebutuhan pasar   
+Developer (Dev) → membuat sistem   
+Designer → desain tampilan & database   
 
 
 6. Studi Kelayakan (Feasibility Study)
 Digunakan untuk menilai apakah proyek layak dijalankan:
 
-Performance → kinerja sistem
-Information → kualitas informasi
-Efficiency → efisiensi
-Control → keamanan/kontrol
-Economy → biaya
-Service → pelayanan
+Performance → kinerja sistem   
+Information → kualitas informasi   
+Efficiency → efisiensi   
+Control → keamanan/kontrol   
+Economy → biaya   
+Service → pelayanan   
 
 
 7. Teknik Estimasi Proyek
 Digunakan untuk memperkirakan biaya & waktu:
 
-LOC (Lines of Code) → berdasarkan jumlah baris kode
-Function Point (FP) → berdasarkan fungsi sistem
-COCOMO Model → model perhitungan biaya:
-Basic
-Intermediate
-Detailed
+LOC (Lines of Code) → berdasarkan jumlah baris kode  
+Function Point (FP) → berdasarkan fungsi sistem  
+COCOMO Model → model perhitungan biaya:  
+Basic 
+Intermediate 
+Detailed  
 
 8. Inti Hubungan Konsep
-SDLC = kerangka kerja utama
-Agile/Scrum = cara menjalankan SDLC
-Sprint = pelaksanaan SDLC dalam waktu singkat
-Waterfall & Spiral = model SDLC lain dengan pendekatan berbeda
+SDLC = kerangka kerja utama  
+Agile/Scrum = cara menjalankan SDLC  
+Sprint = pelaksanaan SDLC dalam waktu singkat  
+Waterfall & Spiral = model SDLC lain dengan pendekatan berbeda  
 
 9. Ringkasan Singkat
 Pengembangan software adalah proses terstruktur yang melibatkan:
 
-Tim (people)
-Produk (software)
-Proses (metode)
-Proyek (manajemen)
+Tim (people)  
+Produk (software)  
+Proses (metode)  
+Proyek (manajemen)  
 
 Dilakukan melalui SDLC dengan berbagai model seperti Waterfall, Agile, Scrum, dan Spiral, serta didukung teknik estimasi seperti LOC, FP, dan COCOMO.
