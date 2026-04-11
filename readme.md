@@ -1,6 +1,6 @@
 1.satura
 fahri   
-aceng 
+aceng    
 abghi
 wida   
 nisa    
