@@ -65,6 +65,36 @@ Coding / pembuatan program
 Memeriksa, mengevaluasi, dan memperbarui dokumen sistem
 Dilakukan saat software sudah digunakan dan masuk tahap maintenance
 
+JENIS PENGUJIAN SOFTWARE
+1. Black Box Testing
+Menguji fungsi sistem tanpa melihat kode
+Fokus ke input & output
+Tujuan
+Memastikan fitur berjalan sesuai kebutuhan user
+Contoh
+Input login → cek berhasil/gagal
+Tidak peduli bagaimana kode di dalamnya
+
+2. White Box Testing
+Menguji dengan melihat kode program
+Fokus ke alur logika, percabangan, loop
+Tujuan
+Memastikan kode berjalan dengan benar secara internal
+Contoh
+Mengecek semua kondisi if-else sudah diuji
+Menguji setiap jalur program
+
+3. Unit Testing (bukan “unit box” ya ❌)
+Menguji bagian kecil (unit) dari program
+Biasanya per:
+fungsi
+method
+class
+Tujuan
+Memastikan tiap bagian kecil bekerja dengan benar sebelum digabung
+Contoh
+Menguji fungsi hitung total harga saja (tanpa sistem penuh)
+
 5. SDLC (Software Development Life Cycle)
 Siklus hidup pengembangan software
 Dari awal sampai software selesai & digunakan
@@ -74,17 +104,21 @@ WATERFALL
 Model berurutan (step by step)
 Tahapan tidak bisa diulang
 Cocok untuk kebutuhan yang jelas
+
 AGILE
 Fleksibel & iteratif
 Bisa berubah sesuai kebutuhan
 Fokus ke kecepatan dan feedback user
+
 SPIRAL
 Gabungan waterfall & iteratif
 Fokus pada manajemen risiko
+
 SCRUM
 Salah satu metode Agile
 Kerja dalam tim kecil
 Dibagi dalam periode kerja
+
 SPRINT
 Iterasi dalam Scrum (biasanya 1–4 minggu)
 Setiap sprint menghasilkan fitur baru
