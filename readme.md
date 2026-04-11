@@ -2,7 +2,7 @@
 fahri   
 aceng 
 abghi
-wida
+wida   
 nisa
 natasha ummi amanda
 fatikha
