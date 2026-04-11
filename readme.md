@@ -3,7 +3,7 @@ fahri
 aceng 
 abghi
 wida   
-nisa
+nisa    
 natasha ummi amanda
 fatikha
 syahwa
