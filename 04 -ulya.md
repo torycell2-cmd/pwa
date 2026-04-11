@@ -84,7 +84,7 @@ Contoh
 Mengecek semua kondisi if-else sudah diuji   
 Menguji setiap jalur program   
 
-3. Unit Testing (bukan “unit box” ya ❌)   
+3. Unit Testing    
 Menguji bagian kecil (unit) dari program   
 Biasanya per:   
 fungsi   
