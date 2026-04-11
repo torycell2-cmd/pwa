@@ -6,4 +6,4 @@ wida
 nisa
 natasha
 fatikha
-nazwa
+syahwa
