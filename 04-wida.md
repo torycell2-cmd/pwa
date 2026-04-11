@@ -38,16 +38,20 @@ Beberapa model dalam SDLC:
 Berurutan (linear)
 Jika ada kesalahan → kembali ke awal
 Cocok untuk proyek yang jelas kebutuhannya
+
 🔹 Agile
 Fleksibel & cepat beradaptasi
 Fokus pada kolaborasi & feedback
+
 🔹 Scrum
 Framework dari Agile
 Menggunakan Sprint (siklus pendek)
 Lebih cepat dan iteratif
+
 🔹 Sprint
 Bagian dari Scrum
 Siklus singkat yang mencakup seluruh tahapan SDLC
+
 🔹 Spiral
 Gabungan Waterfall + Iterasi
 Fokus pada analisis risiko
