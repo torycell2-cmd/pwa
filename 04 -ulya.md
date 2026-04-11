@@ -64,3 +64,33 @@ Coding / pembuatan program
 4. Uji Dokumen Maintenance adalah proses:
 Memeriksa, mengevaluasi, dan memperbarui dokumen sistem
 Dilakukan saat software sudah digunakan dan masuk tahap maintenance
+
+5. SDLC (Software Development Life Cycle)
+Siklus hidup pengembangan software
+Dari awal sampai software selesai & digunakan
+
+6. Model SDLC
+WATERFALL
+Model berurutan (step by step)
+Tahapan tidak bisa diulang
+Cocok untuk kebutuhan yang jelas
+AGILE
+Fleksibel & iteratif
+Bisa berubah sesuai kebutuhan
+Fokus ke kecepatan dan feedback user
+SPIRAL
+Gabungan waterfall & iteratif
+Fokus pada manajemen risiko
+SCRUM
+Salah satu metode Agile
+Kerja dalam tim kecil
+Dibagi dalam periode kerja
+SPRINT
+Iterasi dalam Scrum (biasanya 1–4 minggu)
+Setiap sprint menghasilkan fitur baru
+
+RPL adalah proses membuat software secara terstruktur
+Dimulai dari perencanaan → analisis → desain → implementasi
+Menggunakan model SDLC seperti Waterfall, Agile, dll
+Estimasi dilakukan dengan LOC, FP, atau COCOMO
+Keberhasilan proyek ditentukan oleh People, Product, Process, dan Project
