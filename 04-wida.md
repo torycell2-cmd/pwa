@@ -1,83 +1,102 @@
-Rangkuman Rekayasa Perangkat Lunak
-1. Konsep Dasar (4P)
-Dalam pengembangan perangkat lunak terdapat 4 komponen utama:
-People → pihak yang terlibat (tim, user, stakeholder)
-Product → hasil berupa software/aplikasi
-Process → langkah/metode pengembangan (web, mobile, desktop)
-Project → kegiatan terencana untuk membuat software
+1. Konsep Dasar Proyek Software
+Pengembangan perangkat lunak melibatkan 4 komponen utama:
 
-3. Tahapan Pengembangan Software
-Tahapan umum dalam pengembangan:
-Planning → perencanaan sistem
-Analysis → analisis kebutuhan
-Design → perancangan sistem
-Implementation → pembuatan sistem
+People → orang yang terlibat (tim)
+Product → produk/software yang dibuat
+Process → proses/metode pengembangan (web, mobile, desktop)
+Project → keseluruhan kegiatan proyek
 
-Tambahan tahap:
-Testing (Uji)
-Documentation (Dokumen)
-Maintenance (Pemeliharaan)
+
+2. Tahapan Pengembangan (Umum)
+Tahapan dalam membuat software:
+
+Planning (Perencanaan) → menentukan tujuan & kebutuhan
+Analisis → menganalisis masalah & kebutuhan sistem
+Desain → merancang sistem (UI, database, dll)
+Implementasi → membuat program
+
+Tambahan tahap penting:
+
+Testing (Uji) → memastikan sistem berjalan dengan baik
+Dokumentasi → pencatatan proses & hasil
+Maintenance → perawatan & pengembangan lanjutan
+
 
 3. SDLC (Software Development Life Cycle)
-SDLC adalah siklus hidup pengembangan perangkat lunak, yaitu proses sistematis dari awal hingga maintenance.
-Model SDLC:
-Waterfall
-Linear & berurutan
-Jika gagal → ulang dari awal
-Agile
-Fleksibel & iteratif
-Cepat beradaptasi
-Scrum
-Framework Agile
-Menggunakan Sprint (iterasi pendek)
-Spiral
-Gabungan Waterfall & iterasi
+SDLC adalah siklus hidup pengembangan software dari awal sampai selesai.
+
+Fungsinya:
+
+Memberikan alur kerja sistematis
+Membantu menghasilkan software berkualitas
+
+
+4. Model-Model SDLC
+Beberapa model dalam SDLC:
+
+🔹 Waterfall
+Berurutan (linear)
+Jika ada kesalahan → kembali ke awal
+Cocok untuk proyek yang jelas kebutuhannya
+🔹 Agile
+Fleksibel & cepat beradaptasi
+Fokus pada kolaborasi & feedback
+🔹 Scrum
+Framework dari Agile
+Menggunakan Sprint (siklus pendek)
+Lebih cepat dan iteratif
+🔹 Sprint
+Bagian dari Scrum
+Siklus singkat yang mencakup seluruh tahapan SDLC
+🔹 Spiral
+Gabungan Waterfall + Iterasi
 Fokus pada analisis risiko
+Cocok untuk proyek besar & kompleks
 
-4. Hubungan SDLC & Sprint
-SDLC → kerangka besar pengembangan
-Sprint (Scrum) → implementasi SDLC secara cepat & berulang
 
-5. Tim dalam Proyek Software
+5. Tim dalam Proyek
+Peran dalam tim:
+
 Owner → pemilik proyek
 Project Manager → mengatur jalannya proyek
-Marketing → analisis pasar/kebutuhan
-Developer → membuat sistem
-Designer → merancang tampilan & database
-Tim → pengelola sistem
+Marketing → promosi & kebutuhan pasar
+Developer (Dev) → membuat sistem
+Designer → desain tampilan & database
 
-6. Teknik Estimasi Proyek
-Digunakan untuk menghitung biaya dan waktu:
-LOC (Lines of Code)
-Function Point (FP)
-COCOMO Model
+
+6. Studi Kelayakan (Feasibility Study)
+Digunakan untuk menilai apakah proyek layak dijalankan:
+
+Performance → kinerja sistem
+Information → kualitas informasi
+Efficiency → efisiensi
+Control → keamanan/kontrol
+Economy → biaya
+Service → pelayanan
+
+
+7. Teknik Estimasi Proyek
+Digunakan untuk memperkirakan biaya & waktu:
+
+LOC (Lines of Code) → berdasarkan jumlah baris kode
+Function Point (FP) → berdasarkan fungsi sistem
+COCOMO Model → model perhitungan biaya:
 Basic
 Intermediate
 Detailed
 
-7. Framework PIECES (Analisis Kelayakan)
-Digunakan untuk menilai sistem:
-Performance → kinerja sistem
-Information → kualitas informasi
-Economics → biaya & manfaat
-Control → keamanan & kontrol
-Efficiency → efisiensi kerja
-Service → kualitas layanan
+8. Inti Hubungan Konsep
+SDLC = kerangka kerja utama
+Agile/Scrum = cara menjalankan SDLC
+Sprint = pelaksanaan SDLC dalam waktu singkat
+Waterfall & Spiral = model SDLC lain dengan pendekatan berbeda
 
-8. Studi Kelayakan
-Menentukan apakah proyek layak dikerjakan, biasanya melalui:
-Planning
-Analysis
-Design
-Implementation
+9. Ringkasan Singkat
+Pengembangan software adalah proses terstruktur yang melibatkan:
 
-9. Metode PREP
-Digunakan untuk membuat argumen:
-Point → pernyataan utama
-Reason → alasan
-Example → contoh
-Point → penegasan ulang
+Tim (people)
+Produk (software)
+Proses (metode)
+Proyek (manajemen)
 
-Kesimpulan
-Rekayasa perangkat lunak melibatkan proses terstruktur melalui SDLC, didukung oleh metode seperti Agile, Scrum, Waterfall, dan Spiral.
-Keberhasilan proyek ditentukan oleh tim (people), proses, produk, dan manajemen proyek, serta dianalisis menggunakan framework seperti PIECES dan teknik estimasi seperti COCOMO, LOC, dan Function Point.
+Dilakukan melalui SDLC dengan berbagai model seperti Waterfall, Agile, Scrum, dan Spiral, serta didukung teknik estimasi seperti LOC, FP, dan COCOMO.
