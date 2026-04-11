@@ -89,6 +89,7 @@ SPRINT
 Iterasi dalam Scrum (biasanya 1–4 minggu)
 Setiap sprint menghasilkan fitur baru
 
+rangkuman:  
 RPL adalah proses membuat software secara terstruktur
 Dimulai dari perencanaan → analisis → desain → implementasi
 Menggunakan model SDLC seperti Waterfall, Agile, dll
