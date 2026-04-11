@@ -1,5 +1,5 @@
 1.satura
-fahri
+fahri   
 aceng
 abghi
 wida
