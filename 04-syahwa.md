@@ -39,6 +39,19 @@ Fokus: Kepuasan user dan perubahan cepat.
 Contoh: Scrum, Extreme Programming (XP).
 Intinya: Agile adalah “cara kerja” dalam SDLC yang fleksibel.
 
+*Jenis Pengujian Software
+1. Black Box Testing
+Menguji fungsi sistem tanpa melihat kode program.
+Fokus pada input dan output.
+Contoh: cek login berhasil/gagal.
+2. White Box Testing
+Menguji bagian dalam kode program (logika, struktur).
+Dilakukan oleh programmer.
+Contoh: pengujian percabangan (if-else), loop.
+3. Unit Testing (Unit Test / “Unit Box”)
+Menguji bagian kecil program (fungsi/modul).
+Dilakukan sebelum sistem digabung.
+Tujuan: memastikan tiap bagian bekerja dengan benar.
 
 *Tahapan Pengembangan Software
 1. Planning
