@@ -1,5 +1,6 @@
   SDLC (Software Development Life Cycle) Siklus Hidup Pengembangan Perangkat Lunak
 Proses pengembangan software secara terstruktur.
+
   Tahapan:
 Planning → Analysis → Design → Implementation → Testing → Deployment → Maintenance
 Model-Model SDLC
@@ -17,6 +18,7 @@ Menggabungkan iterasi dan analisis risiko.
 Cocok untuk proyek kompleks.
 5. Agile
 Pendekatan fleksibel, cepat beradaptasi dengan perubahan.
+
 
    Perbedaan SDLC vs Agile
 SDLC (Software Development Life Cycle)
@@ -36,7 +38,7 @@ Contoh: Scrum, Extreme Programming (XP).
 Intinya: Agile adalah “cara kerja” dalam SDLC yang fleksibel.
 
 
-    Tahapan Pengembangan Software
+   Tahapan Pengembangan Software
 1. Planning
 Perencanaan proyek (tujuan, biaya, jadwal).
 2. Analyzing
@@ -52,6 +54,7 @@ Pembuatan dokumentasi sistem (manual, laporan).
 7. Maintenance
 Perawatan dan pengembangan setelah sistem digunakan.
 
+
     Peran dalam Tim Proyek
 1. Owner (Product Owner)
 Menentukan kebutuhan dan tujuan produk.
@@ -63,6 +66,7 @@ Membuat dan mengembangkan sistem (coding).
 Mendesain tampilan (UI/UX) dan pengalaman pengguna.
 5. Marketing
 Mempromosikan produk dan memahami kebutuhan pasar.
+
 
     Metode Estimasi Software
 1. LOC (Lines of Code)
@@ -77,6 +81,7 @@ Lebih akurat karena tidak tergantung bahasa pemrograman.
 Model untuk estimasi effort (tenaga kerja), waktu, dan biaya.
 Menggunakan ukuran software (biasanya LOC).
 Cocok untuk perencanaan proyek.
+
 
     Konsep 4P dalam RPL
 1. People
