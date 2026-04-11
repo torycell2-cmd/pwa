@@ -3,7 +3,8 @@ Proses pengembangan software secara terstruktur.
 
   Tahapan:
 Planning → Analysis → Design → Implementation → Testing → Deployment → Maintenance
-Model-Model SDLC
+
+*Model-Model SDLC
 1. Waterfall
 Model berurutan (linear).
 Cocok untuk proyek dengan kebutuhan tetap.
@@ -20,8 +21,9 @@ Cocok untuk proyek kompleks.
 Pendekatan fleksibel, cepat beradaptasi dengan perubahan.
 
 
-   Perbedaan SDLC vs Agile
-SDLC (Software Development Life Cycle)
+*Perbedaan SDLC vs Agile
+
+-SDLC (Software Development Life Cycle)
 Pengertian: Kerangka kerja atau tahapan umum dalam pengembangan software.
 Sifat: Terstruktur dan berurutan.
 Tahapan: Planning → Analysis → Design → Implementation → Testing → Maintenance.
@@ -29,7 +31,7 @@ Fokus: Proses lengkap dari awal sampai akhir.
 Contoh model: Waterfall, Spiral, V-Model.
 Intinya: SDLC adalah “kerangka besar” proses pengembangan software.
 
-Agile
+-Agile
 Pengertian: Metode/pedekatan dalam SDLC yang bersifat fleksibel dan iteratif.
 Sifat: Adaptif, cepat berubah sesuai kebutuhan.
 Cara kerja: Dibagi dalam iterasi kecil (Sprint).
@@ -38,7 +40,7 @@ Contoh: Scrum, Extreme Programming (XP).
 Intinya: Agile adalah “cara kerja” dalam SDLC yang fleksibel.
 
 
-Tahapan Pengembangan Software
+*Tahapan Pengembangan Software
 1. Planning
 Perencanaan proyek (tujuan, biaya, jadwal).
 2. Analyzing
@@ -55,7 +57,7 @@ Pembuatan dokumentasi sistem (manual, laporan).
 Perawatan dan pengembangan setelah sistem digunakan.
 
 
-Peran dalam Tim Proyek
+*Peran dalam Tim Proyek
 1. Owner (Product Owner)
 Menentukan kebutuhan dan tujuan produk.
 2. Project Manager
@@ -68,7 +70,7 @@ Mendesain tampilan (UI/UX) dan pengalaman pengguna.
 Mempromosikan produk dan memahami kebutuhan pasar.
 
 
-Metode Estimasi Software
+*Metode Estimasi Software
 1. LOC (Lines of Code)
 Mengukur ukuran software berdasarkan jumlah baris kode.
 Digunakan untuk memperkirakan biaya dan waktu.
@@ -83,7 +85,7 @@ Menggunakan ukuran software (biasanya LOC).
 Cocok untuk perencanaan proyek.
 
 
-Konsep 4P dalam RPL
+*Konsep 4P dalam RPL
 1. People
 Semua orang yang terlibat dalam proyek.
 2. Product
