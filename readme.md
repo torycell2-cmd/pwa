@@ -1,0 +1,9 @@
+1.satura
+fahri
+aceng
+abghi
+wida
+nisa
+natasha
+fatikha
+nazwa
