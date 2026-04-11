@@ -18,8 +18,8 @@ Cocok untuk proyek kompleks.
 5. Agile
 Pendekatan fleksibel, cepat beradaptasi dengan perubahan.
 
-    Perbedaan SDLC vs Agile
-  SDLC (Software Development Life Cycle)
+   Perbedaan SDLC vs Agile
+SDLC (Software Development Life Cycle)
 Pengertian: Kerangka kerja atau tahapan umum dalam pengembangan software.
 Sifat: Terstruktur dan berurutan.
 Tahapan: Planning → Analysis → Design → Implementation → Testing → Maintenance.
@@ -27,7 +27,7 @@ Fokus: Proses lengkap dari awal sampai akhir.
 Contoh model: Waterfall, Spiral, V-Model.
 Intinya: SDLC adalah “kerangka besar” proses pengembangan software.
 
-   Agile
+Agile
 Pengertian: Metode/pedekatan dalam SDLC yang bersifat fleksibel dan iteratif.
 Sifat: Adaptif, cepat berubah sesuai kebutuhan.
 Cara kerja: Dibagi dalam iterasi kecil (Sprint).
